@@ -24,6 +24,22 @@ header {
     padding: 2em 1em;
   }
 }
+h1.logo {
+  @include text-hide;
+  background-image: url(sslc-mobile.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: calc(100vw * 0.4);
+  @media (min-width: 576px) {
+    height: calc(508px * 0.4);
+  }
+  @media (min-width: 992px) {
+    background-image: url(sslc-desktop.png);
+    height: 232px;
+  }
+}
 
 .sponsors {
   background-color: $gray;

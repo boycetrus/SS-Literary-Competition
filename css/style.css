@@ -4702,6 +4702,26 @@ header {
     color: #d2d8e3;
     padding: 2em 1em; }
 
+h1.logo {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+  background-image: url(sslc-mobile.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: calc(100vw * 0.4); }
+  @media (min-width: 576px) {
+    h1.logo {
+      height: calc(508px * 0.4); } }
+  @media (min-width: 992px) {
+    h1.logo {
+      background-image: url(sslc-desktop.png);
+      height: 232px; } }
+
 .sponsors {
   background-color: #d2d8e3;
   margin-top: 2em;
