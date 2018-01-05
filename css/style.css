@@ -4720,7 +4720,11 @@ h1.logo {
   @media (min-width: 992px) {
     h1.logo {
       background-image: url(sslc-desktop.png);
-      height: 232px; } }
+      height: calc(928px * 0.23); } }
+  @media (min-width: 1200px) {
+    h1.logo {
+      background-image: url(sslc-desktop.png);
+      height: 275px; } }
 
 .sponsors {
   background-color: #d2d8e3;
