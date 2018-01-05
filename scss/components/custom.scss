@@ -3,6 +3,12 @@ picture {
   max-width: 100%;
 }
 
+svg.icon {
+  width: 16px;
+  height: 16px;
+  fill: $white;
+}
+
 .btn-primary {
   background-color: $orange;
   border-color: $orange;
@@ -49,7 +55,8 @@ h1.logo {
   background-color: $gray;
   margin-top: 2em;
   border-top: 6px solid $blue;
-  //padding: 1em;
+  border-bottom: 100px solid $blue;
+  padding-bottom: 1em;
   color: $blue;
 }
 .sponsor-grid {
