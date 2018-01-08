@@ -5,6 +5,9 @@
 *.psd
 *.ai
 
+# Exclude sponsor logos
+img/*.png
+
 # Exclude the build products
 build/*
 *.[oa]

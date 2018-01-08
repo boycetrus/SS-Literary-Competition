@@ -42,6 +42,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/SCC_Crest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90130,
+		"inputAbbreviatedPath": "\/img\/SCC_Crest.png",
+		"outputAbbreviatedPath": "\/img\/SCC_Crest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/tradies-logo-bdr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16558,
+		"inputAbbreviatedPath": "\/img\/tradies-logo-bdr.png",
+		"outputAbbreviatedPath": "\/img\/tradies-logo-bdr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/tradies-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17408,
+		"inputAbbreviatedPath": "\/img\/tradies-logo.png",
+		"outputAbbreviatedPath": "\/img\/tradies-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/UOW_Primary.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12702,
+		"inputAbbreviatedPath": "\/img\/UOW_Primary.png",
+		"outputAbbreviatedPath": "\/img\/UOW_Primary.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/UOW_Secondary.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12295,
+		"inputAbbreviatedPath": "\/img\/UOW_Secondary.png",
+		"outputAbbreviatedPath": "\/img\/UOW_Secondary.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.htm": {
 		"fileType": 8192,
 		"ignore": 1,

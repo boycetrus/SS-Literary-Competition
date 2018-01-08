@@ -1,6 +1,7 @@
 img,
 picture {
   max-width: 100%;
+  max-height: 100%;
 }
 
 svg.icon {
@@ -62,7 +63,6 @@ h1.logo {
 .sponsor-grid {
   display: flex;
   flex-direction: column;
-  align-items: center;
   @media (min-width: 400px) {
     flex-direction: row;
     justify-content: space-evenly;
@@ -71,11 +71,13 @@ h1.logo {
 }
 
 .sponsor-logo {
-  width: 150px;
-  height: 150px;
-  background-color: $blue;
-  color: $white;
-  margin: 1em;
-  padding: 25px;
-  text-align: center;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: content;
+  @media (min-width: 830px) {
+    &.ssc-logo {
+      border-left: 2px solid $primary;
+    }
+  }
 }
