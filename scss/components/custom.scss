@@ -64,19 +64,17 @@ h1.logo {
 .sponsor-grid {
   display: flex;
   flex-direction: column;
+  align-items: center;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
-  @media (min-width: 768px) {
-    flex-wrap: nowrap;
-  }
 }
 
 .sponsor-logo {
-  display: flex;
-  flex: 0 1 40%;
-  align-items: center;
-  justify-content: content;
+  flex: 0 1 60%;
+  @media (min-width: 400px) {
+    flex: 0 1 40%;
+  }
   @media (min-width: 576px) {
     flex: 0 1 30%;
   }
