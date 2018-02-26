@@ -42,6 +42,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/moran-logo-temp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29951,
+		"inputAbbreviatedPath": "\/img\/moran-logo-temp.png",
+		"outputAbbreviatedPath": "\/img\/moran-logo-temp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/SCC_Crest.png": {
 		"fileType": 32768,
 		"ignore": 0,
