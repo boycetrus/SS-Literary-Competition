@@ -89,21 +89,8 @@ h1.logo {
   }
 }
 
-.shire-resident {
-  border: $card-border-width solid $card-border-color;
-  .header {
-    border-bottom: $card-border-width solid $card-border-color;
-  }
-  .header h4 {
-    margin-bottom: 0;
-  }
-  @include media-breakpoint-up(md) {
-    .header {
-      border-right: $card-border-width solid $card-border-color;
-      border-bottom: 0;
-    }
-    .card-text {
-      padding: 1rem 0;
-    }
+@include media-breakpoint-up(md) {
+  .card-deck + .card-deck {
+    margin-top: $card-deck-margin * 2;
   }
 }

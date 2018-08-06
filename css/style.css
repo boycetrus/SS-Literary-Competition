@@ -2401,7 +2401,7 @@ tbody.collapse.show {
           flex-direction: column; }
   .card-deck .card {
     margin-bottom: 15px; }
-  @media (min-width: 576px) {
+  @media (min-width: 768px) {
     .card-deck {
       -webkit-flex-flow: row wrap;
           -ms-flex-flow: row wrap;
@@ -5599,15 +5599,6 @@ h1.logo {
           -ms-flex: 0 1 15%;
               flex: 0 1 15%; } }
 
-.shire-resident {
-  border: 1px solid rgba(0, 0, 0, 0.125); }
-  .shire-resident .header {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
-  .shire-resident .header h4 {
-    margin-bottom: 0; }
-  @media (min-width: 768px) {
-    .shire-resident .header {
-      border-right: 1px solid rgba(0, 0, 0, 0.125);
-      border-bottom: 0; }
-    .shire-resident .card-text {
-      padding: 1rem 0; } }
+@media (min-width: 768px) {
+  .card-deck + .card-deck {
+    margin-top: 30px; } }
