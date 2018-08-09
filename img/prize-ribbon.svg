@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 164.2 252.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c3c3b;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+      }
+
+      .cls-3, .cls-6 {
+        fill: none;
+        stroke: #f9b233;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 4.75;
+      }
+
+      .cls-4 {
+        fill: url(#gold_medal);
+      }
+
+      .cls-5 {
+        fill: #010101;
+      }
+
+      .cls-6 {
+        stroke-width: 0.68px;
+        stroke-dasharray: 0 4.57;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="gold_medal" data-name="gold medal" y1="98.9" x2="164.15" y2="98.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#af8d37"/>
+      <stop offset="0.1" stop-color="#af8d37"/>
+      <stop offset="0.11" stop-color="#af8d37"/>
+      <stop offset="0.17" stop-color="#c1a552"/>
+      <stop offset="0.26" stop-color="#dac578"/>
+      <stop offset="0.35" stop-color="#ebdd93"/>
+      <stop offset="0.42" stop-color="#f6eba3"/>
+      <stop offset="0.48" stop-color="#faf0a9"/>
+      <stop offset="0.9" stop-color="#af8d37"/>
+      <stop offset="0.9" stop-color="#ab8836"/>
+      <stop offset="0.97" stop-color="#805628"/>
+      <stop offset="1" stop-color="#6f4223"/>
+    </linearGradient>
+  </defs>
+  <title>prize-ribbon</title>
+  <g id="Layer-1" data-name="Layer 1">
+    <g id="prize-ribbon">
+      <polygon class="cls-1" points="134.9 252.3 83.5 219.8 27.3 252.3 27.3 0 134.9 0 134.9 252.3"/>
+      <g>
+        <polyline class="cls-2" points="126.3 10.4 126.3 240 82.9 213.7 34.3 240.7 34.3 6.7 125.5 6.7"/>
+        <polyline class="cls-3" points="126.3 10.4 126.3 240 82.9 213.7 34.3 240.7 34.3 6.7 125.5 6.7"/>
+      </g>
+      <path class="cls-4" d="M164.2,98.9c0,6.1-4.9,11.6-6.2,17.3s.7,13-1.9,18.3-9.4,8.2-13.1,12.9-5,11.9-9.7,15.7-12,3.3-17.4,5.9-9.6,8.6-15.5,9.9-12.2-2.2-18.3-2.2-12.5,3.5-18.3,2.2-10.2-7.3-15.5-9.9-12.8-2.2-17.4-5.9-5.9-11-9.7-15.7-10.5-7.5-13.1-12.9-.6-12.4-1.9-18.3S0,105,0,98.9,4.9,87.3,6.2,81.6s-.7-13,1.9-18.3S17.5,55,21.2,50.4s5-11.9,9.7-15.7,12-3.3,17.4-5.9,9.6-8.6,15.5-9.9S76,21.1,82.1,21.1s12.5-3.5,18.3-2.2,10.2,7.3,15.5,9.9,12.8,2.2,17.4,5.9,5.9,11,9.7,15.7,10.5,7.5,13.1,12.9.6,12.4,1.9,18.3S164.2,92.8,164.2,98.9Z"/>
+      <path id="black-ring" class="cls-5" d="M82.1,172.6a73.7,73.7,0,1,1,73.7-73.7A73.8,73.8,0,0,1,82.1,172.6Z"/>
+      <g>
+        <path class="cls-5" d="M82.1,169.5a70.6,70.6,0,1,1,70.6-70.6A70.7,70.7,0,0,1,82.1,169.5Z"/>
+        <path class="cls-6" d="M82.1,169.5a70.6,70.6,0,1,1,70.6-70.6A70.7,70.7,0,0,1,82.1,169.5Z"/>
+      </g>
+      <path id="face" class="cls-7" d="M82.1,166.4a67.5,67.5,0,1,1,67.5-67.5A67.6,67.6,0,0,1,82.1,166.4Z"/>
+    </g>
+  </g>
+</svg>

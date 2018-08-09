@@ -10,6 +10,21 @@ svg.icon {
   fill: $white;
 }
 
+svg.icon-ribbon {
+  position: absolute;
+  height: 59px;
+  top: 1.5em;
+  left: 1em;
+  width: 38px;
+}
+
+.ribbon-text {
+  position: absolute;
+  top: 34px;
+  left: 31px;
+  font-weight: bold;
+}
+
 .btn-primary {
   background-color: $orange;
   border-color: $orange;
