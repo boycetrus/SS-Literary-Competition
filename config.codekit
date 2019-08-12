@@ -42,6 +42,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/frequently-asked-questions.htm": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/frequently-asked-questions.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/img\/moran-logo-temp.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -117,6 +126,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/_FAQ.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/_FAQ.kit",
+		"outputAbbreviatedPath": "\/_FAQ.htm",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/_terms.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -132,6 +150,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/_winners.kit",
 		"outputAbbreviatedPath": "\/_winners.htm",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/frequently-asked-questions.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/frequently-asked-questions.kit",
+		"outputAbbreviatedPath": "\/frequently-asked-questions.htm",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
