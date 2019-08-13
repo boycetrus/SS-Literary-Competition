@@ -176,15 +176,48 @@ ga('send', 'pageview');
       </div>
     </div>
 
+    <!-- FAQs -->
+    <div class="modal fade" id="faqModal" tabindex="-2" role="dialog" aria-labelledby="faqModalHeader" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h2 class="modal-title" id="faqModalHeader">Frequently Asked Questions</h2>
+            <span role="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </span>
+          </div>
+          <div class="modal-body">
+            <!-- @include FAQ -->
+          </div>
+          <div class="modal-footer">
+            <span role="button" class="btn btn-primary" data-dismiss="modal">OK</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <section id="main">
       <div id="about" class="container page-wrap">
         <h2>About the Competition</h2>
-        <p class="lead">Entries Close: <strong>Monday, 30 April 2018</strong></p>
+        <p class="lead">Entries Open: <strong class="text-nowrap">Monday, 30 April 2018</strong><br>
+          Entries Close: <strong class="text-nowrap">Monday, 30 April 2018</strong></p>
+        <p>Welcome to the 2019-2020 Sutherland Shire Literary Competition. The inaugural Competition in 2018 attracted over 550 entries from residents in every State and Territory of Australia.</p>
+        <h3>Introducing a Themed Short Story Category<br>
+          <small class="text-muted">2020: Looking Back, Moving Forward</small></h3>
+        <p>The year 2020 marks the 250th Anniversary of the encounter by the First Australians with Lieutenant James Cook and the crew of the HMS Endeavour at Botany Bay (or Kamay as it is also known). That first encounter took place in what is today called Kurnell, a suburb of the Sutherland Shire Local Government Area in Sydney's south.</p>
+        <p>To acknowledge this historic event, we’ve added a new category to this year's Awards – a short story with the theme. By going back to this historic event, and by telling its stories with truth and respect, we can move forward together as a Nation.</p>
+        <p>There, are of course many ways, in which you can incorporate this theme into your short story should you decide to enter Category D. The Sutherland Shire Council does, however, note the importance of bringing all Australians together by recognising our shared heritage.</p>
+      </div>
+
+      <div id="prizes" class="container page-wrap">
+        <h2>Prizes</h2>
         <p>Australian residents over 18 years of age are invited to submit their individual, original works in the following categories:</p>
         <ul>
           <li>Traditional (Rhyming) Verse (max 80 lines)</li>
           <li>Free Verse (max 80 lines)</li>
           <li>Short Story (max 2000 words)</li>
+          <li>Themed Short Story (max 2,000 words) <br>
+            <strong>2020: Looking Back, Moving Forward</strong></li>
         </ul>
         <p>3 prizes are being offered in each category:</p>
         <ul>
@@ -204,14 +237,16 @@ ga('send', 'pageview');
         <p>Multiple entries from individuals are welcome but you must complete an entry form and pay the entry fee for each poem or short story you wish to submit. Entries will only be accepted online through the attached entry form. All entry fees are <strong>non-refundable</strong>.</p>
         <p>All entries must be the original work of the author. Entries must be submitted as Microsoft Word (.doc, .docx) or Rich Text Format (.rtf) files, typed in black without photographs, drawings, coloured background, illustrations or embellishments of
           any kind. To ensure impartial judging, the entrant&rsquo;s name should not appear anywhere on the poem or short story being submitted, nor in the name of the uploaded file itself.</p>
-        <p>Please read the <a href="#t-cModal" role="button" data-toggle="modal" data-target="#t-cModal">full competition Terms &amp; Conditions</a> before submitting any entries.</p>
-        <div class="d-none d-sm-block">
+        <p>Please read the <a href="#t-cModal" role="button" data-toggle="modal" data-target="#t-cModal">full competition Terms &amp; Conditions</a> and <a href="frequently-asked-questions.htm">Frequently Asked Questions</a> before submitting any entries.</p>
+        <div class="d-none d-md-block">
           <a href="https://sutherlandshirecouncil.submittable.com/submit/17a0529f-01a7-4db7-9142-f64b672437ed/sutherland-shire-literary-competition-2018" class="btn btn-lg btn-primary" target="_blank">Enter Now</a>
           <a href="#t-cModal" role="button" data-toggle="modal" data-target="#t-cModal" class="btn btn-lg btn-secondary">Terms &amp; Conditions</a>
+          <a href="#faqModal" role="button" data-toggle="modal" data-target="#faqModal" class="btn btn-lg btn-secondary">Frequently Asked Questions</a>
         </div>
-        <div class="d-block d-sm-none">
+        <div class="d-block d-md-none">
           <p><a href="https://sutherlandshirecouncil.submittable.com/submit/17a0529f-01a7-4db7-9142-f64b672437ed/sutherland-shire-literary-competition-2018" class="btn btn-lg btn-primary btn-block" target="_blank">Enter Now</a></p>
           <p><a href="#t-cModal" role="button" data-toggle="modal" data-target="#t-cModal" class="mt-3">Terms &amp; Conditions</a></p>
+          <p><a href="#faqModal" role="button" data-toggle="modal" data-target="#faqModal" class="mt-3">Frequently Asked Questions</a></p>
         </div>
       </div>
 
@@ -232,15 +267,7 @@ ga('send', 'pageview');
     </section>
 
     <section id="sponsors">
-      <div class="container-fluid text-center sponsors">
-        <p class="lead mt-3">This competition would not have been possible without the generous support of our sponsors</p>
-        <div class="sponsor-grid">
-          <a class="sponsor-logo mb-3" href="https://www.tradies.com.au/"><img src="img/tradies-logo.png" alt="Tradies"></a>
-          <a class="sponsor-logo mb-3" href="https://www.uow.edu.au/"><img src="img/UOW_Primary.png" alt="University of Wollongong"></a>
-          <a class="sponsor-logo mb-3" href="http://morangroup.com.au/"><img src="img/moran-logo-temp.png" alt="Moran Health Group"></a>
-          <a class="sponsor-logo ssc-logo mb-3" href="http://www.sutherlandshire.nsw.gov.au"><img src="img/SCC_Crest.png" alt="Sutherland Shire Council"></a>
-        </div>
-      </div>
+      <!-- @include sponsors -->
     </section>
 
     <!-- Optional JavaScript -->

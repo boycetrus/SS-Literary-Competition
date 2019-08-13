@@ -51,6 +51,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/club-central-logo-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12766,
+		"inputAbbreviatedPath": "\/img\/club-central-logo-reverse.png",
+		"outputAbbreviatedPath": "\/img\/club-central-logo-reverse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Moran-logo-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11319,
+		"inputAbbreviatedPath": "\/img\/Moran-logo-reverse.png",
+		"outputAbbreviatedPath": "\/img\/Moran-logo-reverse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/moran-logo-temp.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -58,6 +80,17 @@
 		"initialSize": 29951,
 		"inputAbbreviatedPath": "\/img\/moran-logo-temp.png",
 		"outputAbbreviatedPath": "\/img\/moran-logo-temp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/NSW-Govt-logo-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19775,
+		"inputAbbreviatedPath": "\/img\/NSW-Govt-logo-reverse.png",
+		"outputAbbreviatedPath": "\/img\/NSW-Govt-logo-reverse.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -73,6 +106,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/SSC-crest-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34279,
+		"inputAbbreviatedPath": "\/img\/SSC-crest-reverse.png",
+		"outputAbbreviatedPath": "\/img\/SSC-crest-reverse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/tradies-logo-bdr.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -84,6 +128,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/Tradies-logo-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10615,
+		"inputAbbreviatedPath": "\/img\/Tradies-logo-reverse.png",
+		"outputAbbreviatedPath": "\/img\/Tradies-logo-reverse.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/tradies-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -91,6 +146,17 @@
 		"initialSize": 17408,
 		"inputAbbreviatedPath": "\/img\/tradies-logo.png",
 		"outputAbbreviatedPath": "\/img\/tradies-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/UOW-logo-reverse.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18877,
+		"inputAbbreviatedPath": "\/img\/UOW-logo-reverse.png",
+		"outputAbbreviatedPath": "\/img\/UOW-logo-reverse.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -132,6 +198,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/_FAQ.kit",
 		"outputAbbreviatedPath": "\/_FAQ.htm",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/_sponsors.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/_sponsors.kit",
+		"outputAbbreviatedPath": "\/_sponsors.htm",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
