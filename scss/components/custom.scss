@@ -73,13 +73,11 @@ h1.logo {
 }
 
 .sponsors {
-  background-color: $gray;
+  background-color: $blue;
   margin-top: 2em;
-  border-top: 6px solid $blue;
-  border-bottom: 100px solid $blue;
-  box-shadow: inset 0px -6px 0 0px $info;
-  padding-bottom: 1em;
-  color: $blue;
+  border-top: 6px solid $info;
+  padding-bottom: 6em;
+  color: $white;
 }
 .sponsor-grid {
   display: flex;
@@ -99,14 +97,14 @@ h1.logo {
     flex: 0 1 30%;
   }
   @media (min-width: 768px) {
-    flex: 0 1 20%;
-    &.ssc-logo {
-      border-left: 2px solid $primary;
-    }
-  }
-  @media (min-width: 992px) {
     flex: 0 1 15%;
+    // &.ssc-logo {
+    //   border-left: 2px solid $primary;
+    // }
   }
+  // @media (min-width: 992px) {
+  //   flex: 0 1 15%;
+  // }
 }
 
 @include media-breakpoint-up(md) {
