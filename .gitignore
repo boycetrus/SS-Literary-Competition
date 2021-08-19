@@ -34,3 +34,4 @@ scss/components/.sass-cache/*
 # Exclude Espresso Project files
 *.esproj
 SS-Literary-Competition.code-workspace
+config.codekit
